@@ -1,7 +1,7 @@
 var config = {};
 
-var env = "dev";
-//var env = "int";
+// var env = "dev";
+var env = "int";
 
 config.bpms = {};
 
